@@ -1,0 +1,40 @@
+{
+    "nombreApp" : "Componentes",
+    "rutas" : [
+        {
+            "ruta" : "alert",
+            "icon" : "add_alert",
+            "texto": "Alertas, como popup o el fin que decemos darle"
+        },
+        {
+            "ruta" : "avatar",
+            "icon" : "accessibility",
+            "texto": "Avatars, para imagenes mas pequeños e iconos"
+        },
+        {
+            "ruta" : "card",
+            "icon" : "folder_open",
+            "texto": "Cards - Tarjetas, ejemplos muy interesantes."
+        },
+        {
+            "ruta" : "animatedContainer",
+            "icon" : "donut_large",
+            "texto": "Ejemplos de animaciones y cambio de tamaño."
+        },
+        {
+            "ruta" : "inputs",
+            "icon" : "input",
+            "texto": "Ejemplos de Inputs"
+        },
+        {
+            "ruta" : "sliders",
+            "icon" : "slider",
+            "texto": "Ejemplos de los diferentes tipos de Sliders"
+        },
+        {
+            "ruta" : "list",
+            "icon" : "list",
+            "texto": "Ejemplos de los diferentes tipos de Listas y Scroll"
+        }
+    ]
+}
